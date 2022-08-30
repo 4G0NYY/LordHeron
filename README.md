@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @LordHeron
-- 👀 I’m interested in coding (python/c#) and just enjoying life :)
-- 🌱 I’m currently learning C# cause me dumb xD
-- 💞️ I’m looking to collaborate on nothing atm
+- 👀 I’m interested in coding (python/c#/Java/Javascript) and just enjoying life :)
+- 🌱 I am learning to work on Linux since it's a really powerful operating system
 - 📫 How to reach me: Add my Discord [Lord#8000], I'm always around :)
+
+Some other stuff about me:
+  I was born on the 6. of September of 2006
+  I am amazed by all sorts of technological stuff
+  I started coding when I was 9 
+  And I love to test stuff for security leaks
 
 <!---
 LordHeron/LordHeron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
