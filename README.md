@@ -6,7 +6,9 @@
   Tiny bit of C#
   
 # Something about me:
-  I live in switzerland /n
-  I speak german and english /n
-  I love technology /n
-  There's nothing better than testing systems for security leaks ;)
+  I live in switzerland,
+  I speak german and english,  
+  I love technology and
+  there's nothing better than testing systems for security leaks ;)
+
+# That's about everything about me :)
