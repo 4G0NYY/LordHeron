@@ -2,7 +2,7 @@
   Discord: Lord#8000
 
 # What am I doing?
-  Python
+  Python and a
   Tiny bit of C#
   
 # Something about me:
