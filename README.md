@@ -7,7 +7,6 @@
   
 # Something about me:
   I live in switzerland,
-  I speak german and english,  
   I love technology and
   there's nothing better than testing systems for security leaks ;)
 
