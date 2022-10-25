@@ -1,5 +1,5 @@
 # How to contact me:
-  Discord: Lord#8000
+  Discord: Lord#4580
 
 # What am I doing?
   Python and a
