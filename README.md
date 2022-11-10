@@ -3,7 +3,7 @@
 
 # What am I doing?
   Python and a
-  Tiny bit of C#
+  tiny bit of C#
   
 # Something about me:
   I live in switzerland,
