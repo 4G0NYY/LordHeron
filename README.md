@@ -10,4 +10,4 @@
   I love technology and
   there's nothing better than testing systems for security leaks ;)
 
-# That's about everything about me :)
+# That's about it really
