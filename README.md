@@ -2,8 +2,7 @@
   Discord: Lord#4580
 
 # What am I doing?
-  Python and a
-  tiny bit of C#
+  Python, Bash, C#, C, HTML, CSS and Java
   
 # Something about me:
   I live in switzerland,
