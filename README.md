@@ -5,8 +5,7 @@
   Python, Bash, C#, C, HTML, CSS and Java
   
 # Something about me:
-  I live in switzerland,
-  I love technology and
-  there's nothing better than testing systems for security leaks ;)
+
+  A big blank 
 
 # That's about it really
