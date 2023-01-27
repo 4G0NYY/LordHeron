@@ -1,5 +1,5 @@
 # How to contact me:
-  Discord: Lord#4580
+  How about you just don't?
 
 # What am I doing?
   Python, Bash, C#, C, HTML, CSS and Java
